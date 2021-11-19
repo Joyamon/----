@@ -1,0 +1,5 @@
+# 财务经理
+url:
+  authservice/token
+payloads:
+   username=13600000099&password=000099&grant_type=password

@@ -1,0 +1,5 @@
+# 总经理审批
+url:
+  authservice/token
+payloads:
+   username=13500000005&password=000005&grant_type=password

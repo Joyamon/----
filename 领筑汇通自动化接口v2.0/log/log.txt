@@ -1,0 +1,12 @@
+2021-11-17 15:06:39,260-logTest-INFO-34-makelog:授信申请成功，响应信息为：success
+2021-11-17 15:06:43,155-logTest-INFO-34-makelog:风控经理审批完成，响应信息为：success
+2021-11-17 15:06:44,247-logTest-INFO-34-makelog:风控经理审批成功，响应信息为：success
+2021-11-17 15:06:45,102-logTest-INFO-34-makelog:财务经理审批成功，响应信息为：success
+2021-11-17 15:06:45,162-logTest-INFO-34-makelog:财务经理update成功，响应信息为：success
+2021-11-17 15:06:45,499-logTest-INFO-34-makelog:商票申请成功，响应信息为：success
+2021-11-17 15:06:45,679-logTest-INFO-34-makelog:客户经理create成功，响应信息为：success
+2021-11-17 15:06:45,889-logTest-INFO-34-makelog:客户经理audit成功，响应信息为：success
+2021-11-17 15:06:46,369-logTest-INFO-34-makelog:风控经理audit成功，响应信息为：success
+2021-11-17 15:06:46,720-logTest-INFO-34-makelog:风控总监audit成功，响应信息为：success
+2021-11-17 15:06:47,070-logTest-INFO-34-makelog:总经理audit成功，响应信息为：success
+2021-11-17 15:06:47,349-logTest-INFO-34-makelog:财务经理audit成功，响应信息为：success

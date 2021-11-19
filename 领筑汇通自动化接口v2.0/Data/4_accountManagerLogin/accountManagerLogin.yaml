@@ -1,0 +1,6 @@
+# 客户经理登录
+url:
+  authservice/token
+payloads:
+   username=13700009898&password=009898&grant_type=password
+

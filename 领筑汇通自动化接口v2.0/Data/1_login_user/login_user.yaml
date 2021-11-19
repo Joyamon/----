@@ -1,0 +1,4 @@
+url:
+  openapi/public/login/loginByPassword
+payloads:
+  username=13599990000&password=990000&clienttype=3

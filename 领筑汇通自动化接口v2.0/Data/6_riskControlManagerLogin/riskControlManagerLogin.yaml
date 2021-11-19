@@ -1,0 +1,5 @@
+# 风控经理审批
+url:
+  authservice/token
+payloads:
+   username=13500000009&password=123&grant_type=password

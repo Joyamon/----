@@ -1,0 +1,5 @@
+# 总裁
+url:
+   authservice/token
+payloads:
+   username=13855559999&password=559999&grant_type=password

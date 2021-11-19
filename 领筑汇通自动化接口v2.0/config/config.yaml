@@ -1,0 +1,12 @@
+# 邮箱服务
+smtpserver:
+  smtp.qq.com
+# 邮箱授权码
+pwd:
+  uozjdyoolbisbhgh
+#  发送人邮箱
+from:
+  2096445724@qq.com
+# 接收人邮箱
+to:
+  18152007693@163.com
